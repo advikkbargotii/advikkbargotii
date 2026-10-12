@@ -3,9 +3,9 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Advik%20Bargoti&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20CS%20%40%20University%20of%20Arizona&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
 
-[![Portfolio](https://img.shields.io/badge/advikbargoti.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://advikbargoti.dev)
+[![Portfolio](https://img.shields.io/badge/advikbargoti.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://advikbargoti.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/advik-bargoti)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advikbargoti@arizona.edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bargotiadvik@gmail.com)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## About Me
 
-Computer Science senior at the **University of Arizona** (May 2026), based in **New York, NY**. I work at the intersection of AI and software engineering — building LLM-powered automation systems, full-stack applications, and research tools.
+Computer Science senior at the **University of Arizona** (May 2026), based in **Tucson, AZ**. I work at the intersection of AI and software engineering — building LLM-powered automation systems, full-stack applications, and research tools.
 
 Right now I'm wearing a few hats:
 
